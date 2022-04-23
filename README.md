@@ -3,8 +3,6 @@
 
 - 🔭 Je suis actuellement en train de travailler sur mon **PORTFOLIO**
 
-- 🌱 J'apprends actuellement **Tailwind Css**
-
 - 📫 Contact **getutadessedereje@gmail.com**
 
 - ⚡ Fun fact **i'm funny**
