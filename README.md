@@ -7,6 +7,7 @@
 
 - ⚡ Fun fact **i'm funny**
 
+- [Portfolio](https://derejeg.promo-106.codeur.online/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
