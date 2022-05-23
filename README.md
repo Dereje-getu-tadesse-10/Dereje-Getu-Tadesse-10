@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, Je suis Dereje</h1>
 <h3 align="center">Développeur web</h3>
 
-- 🔭 Je suis actuellement en train de travailler sur mon **PORTFOLIO**
+- 🔭 Je suis actuellement en train de travailler sur **UN PROJET DE CONNEXION ET D'INSCRIPTION**
 
 - 📫 Contact **getutadessedereje@gmail.com**
 
