@@ -1,7 +1,7 @@
+Hi 👋, I'm Dereje
 
-<img 
-src="https://www.kana.fr/assets/uploads/2017/11/hunter-x-hunter-kuroro-lucifuru.gif?x92667"
-width="900px"
-/>
+- 🌱 I’m currently learning **Swift**
 
+- 👨‍💻 All of my projects are available at [dereje.fr](dereje.fr)
 
+- 📫 How to reach me **derejegetutadesse@gmail.com**
